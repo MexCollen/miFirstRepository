@@ -1,2 +1,2 @@
 # miFirstRepository
-Mi primera repo en GitHub, por Jhosias.
+Mi primera repo en GitHub, por Jhosias007.
